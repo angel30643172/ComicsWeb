@@ -1,0 +1,74 @@
+<html>
+<head>
+	<title> Mundo de los Comics </title>
+	</head>
+	
+	<body><body bgcolor="Orange">
+	<H1 align="center"> Venta de Comics en línea </H1>
+	<p>
+		<blockquote>
+		    <b>Un comis es:</b> Una historieta o cómic es una sucesión de dibujos que constituye un relato, con texto o sin texto,<br/> así como la serie de ellas que trate de la misma historia o del mismo concepto, <br/>y también el correspondiente medio de comunicación en su conjunto.
+		</blockquote>
+	</p>
+	<link rel="shortcut icon" type="imagen/x-icon"  href="Icono/Marvel_icon-icons.com_61667.ico" >
+	<a href="https://www.universal-comics.com/">"pagina oficial"</a>
+	<a href="Imagen\imagen.ico">"imagen de un comic"</a>
+	<hr/>
+	<h1>Comics imprescindibles a travéz del tiempo </h1>
+		<ul>
+			<li> Watchmen (Alan Moore y Dave Gibbons, 1986-1987)</li>
+			<li> Sandman (Neil Gaiman y varios dibujantes, 1988-1996)</li>
+			<li>Maus (Art Spiegelman, 1977-1991)</li>
+			<li> All-Star Superman (Grant Morrison y Frank Quitely, 2005-2008)</li>
+		</ul>
+		<h2>Uno de los comics que te pueden gustar:</h2>
+		<ol>
+		<li>		<h3>Comics de Marvel</h3>	</li>
+		<ul><li>
+		<a href="https://www.marvel.com/comics?&options%5Boffset%5D=0&totalcount=12">puedes comprar un comic de Marvel aquí</a></li></ul>
+		<p>
+		<b><i>Marvel Cómics</i></b> es una editorial norteamericana de cómics. ... Algunos de sus cómics más conocidos son Los 4 Fantásticos, Spider-Man, <br/>Daredevil, Capitán América, Los Vengadores, Iron Man, Hulk, Wolverine y los X-Men. <br/>Desde los años 60 la compañía constituye una de las mayores editoriales de este género.
+		</p>
+		<blockquote>
+		Es un mundo de los mejores que pueden existir en el area de los comics<br/>
+		<cite>	<b><i>Mrs. Tony Star </i></b>	</cite>
+		</blockquote>
+		<li>	<h3>DC comics</h3>	</li>
+		<ul><li>
+		<a href="https://tienda.sophosenlinea.com/editorial/dc-comics/2346/">puedes comprar comic de DC aquí</a></li></ul>
+		<p>
+		<b><i>DC Comics</i></b> es una editorial de cómics estadounidense. Forma parte de DC Entertainment, ​ una de las empresas que conforman Warner Bros. <br/>Entertainment, la cual a su vez es propiedad de WarnerMedia. Fue fundada en 1934 bajo el nombre National Allied Publications, <br/>para luego tomar el nombre de DC Comics en 1937.
+		</p>
+		<li>	<h3>Comics Manga</h3>	</li>
+		<ul><li><a href ="https://www.akiracomics.com/manga">puedes comprar comics de Manga aquí</a></li></ul>
+		<p>
+		<b><i>Manga</i></b> es la palabra japonesa para designar las historietas en general. Fuera de Japón, se utiliza para referirse a las historietas de origen japonés. <br/>El manga japonés constituye una de las tres grandes tradiciones historietísticas a nivel mundial,<br/> junto con la estadounidense y la franco-belga. 
+		</p>
+		</ol>
+		<hr/>
+		<h3>Otras cosas que te pueden interesar:</h3>
+		<ul><h4>El ánime</h4>
+		<a href="Imagen\anime.jpg">imagen del ánime</a>
+		<p>
+		El anime, por su parte, es la forma animada de representar una historia. Así como las caricaturas o los cortometrajes animados, el anime surgió con gran influencia de la época dorada de Disney, y se ha afianzando con los años.
+		</p>
+		</ul>
+		<a href="https://www.amazon.es/Libros-Comics-Manga/b?ie=UTF8&node=902516031">puedes comprar comics de ánime "dándo clik aquí"</a><br/>
+		<b>---Manga vs Anime---</b>
+		<p>
+		<b>Manga</b> es una forma de contar historias en formato impreso. Dentro de Japón (donde surgió esta expresión), el término se utiliza para referirse de forma general a la que en Occidente llamaríamos cómics o historietas.
+		<b><i>Fuera de Japón</i>,</b> "manga" se usa para describir cómics solo mientras que "anime" cubre dibujos animados y cómics animados de muchos tipos. El anime suele ser, pero no siempre, la versión animada de manga.
+		</p>
+		<hr/>
+		<h3>Tipos de manga según la demografía</h3>
+		<ul>
+		<li><b>Kodomo manga:</b> historias infantiles, como por ejemplo Doraemon.<a href="https://animanga.fandom.com/es/wiki/Kodomo">ver más</a></li>
+		<li><b>Shōnen manga:</b> historias para adolescentes masculinos, como Dragon Ball.<a href="https://www.planetadelibros.com/coleccion-manga-shonen/CMI5500021">ver más</a></li>
+		<li><b> Shōjo manga:</b> historias para adolescentes femeninas, como Kaichou wa Maid-sama! <a href="https://www.20minutos.es/noticia/4333062/0/lista-mejores-animes-romanticos-shojo/">ver más</a></li>
+		<li><b> Seinen manga:</b> historias para hombres adultos, como Ghost in the shell.<a href="https://www.superaficionados.com/animes-seinen/">ver más</a></li>
+		<li><b>Josei manga: </b>historia para mujeres adultas, como Nana.<a href="https://www.superaficionados.com/mejores-series-josei/">ver más</a></li>
+		<ul>
+		<a href="https://www.softzone.es/programas/utilidades/programas-leer-comics-manga/">para comprar manga o ánime</a>
+		<a href="mailto:11h0029@lasalleantigua.edu.gt">Contactar por correo</a>
+	</body>
+</html>
